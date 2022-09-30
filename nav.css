@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.blue{
+    height: 5px;
+    background-color: rgb(0, 162, 255);
+}
+.green {
+    height: 5px;
+    background-color: yellowgreen;
+}
+.yellow {
+    height: 5px;
+    background-color: rgb(255, 136, 0);
+}
+.fire {
+    height: 5px;
+    background-color: purple;
+}
+
+
+.navbar {
+    height: 105px;
+}
+.kundalik_logo {
+    background-color: aqua;
+    background-image: url(./images/uzlogotype.png);
+}
